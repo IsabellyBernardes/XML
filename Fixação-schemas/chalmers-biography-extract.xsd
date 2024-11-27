@@ -6,20 +6,29 @@
                 <xs:element name="entry">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="title" />
-                            <xs:sequence>
-                                <xs:element name="csc" type="xs:string" maxOccurs="unbounded" />
-                            </xs:sequence>
-                            <xs:element name="body" />
-                            <xs:sequence>
-                                <xs:element name="p" type="xs:string" />
-                            </xs:sequence>
+                            <xs:element name="title">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="csc" type="xs:string"
+                                            maxOccurs="unbounded" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="body">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="p" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
                         </xs:sequence>
+                        <xs:attribute name="birthplace" type="xs:string" />
+                        <xs:attribute name="id" type="xs:string" use="required" />
+                        <xs:attribute name="born" type="xs:gYear" />
+                        <xs:attribute name="died" type="xs:gYear" />
                     </xs:complexType>
-
                 </xs:element>
             </xs:sequence>
-            <xs:attribute name="birthplace" type="xs:string" use="required" />
         </xs:complexType>
     </xs:element>
 </xs:schema>

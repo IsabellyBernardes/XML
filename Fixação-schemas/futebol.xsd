@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="cd">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="rodada">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="jogo">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="mandante">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="time" type="xs:string"/>
+                                                    <xs:element name="gols" type="xs:integer"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="visitante">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="time" type="xs:string"/>
+                                                    <xs:element name="gols" type="xs:integer"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    <xs:attribute name="n" type="xs:integer" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

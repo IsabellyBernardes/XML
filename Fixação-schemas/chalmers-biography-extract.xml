@@ -3,7 +3,8 @@
     xsi:noNamespaceSchemaLocation="chalmers-biography-extract.xsd">
     <entry birthplace="Zwolle" id="aa-christian-charles-henry-vander" born="1718" died="1795">
         <title>
-            <csc>Aa</csc>, <csc>Christian</csc> 
+            <csc>Aa</csc>
+            <csc>Christian</csc> 
             <csc>Charles</csc> 
             <csc>Henry</csc> 
             <csc>Vander</csc>
@@ -14,7 +15,8 @@
     </entry>
     <entry birthplace="Wibourg" id="aagard-christian" born="1616" died="1664">
         <title>
-            <csc>Aagard</csc>, <csc>Christian</csc>
+            <csc>Aagard</csc>
+            <csc>Christian</csc>
         </title>
         <body>
             <p>, a Danish poet, born at Wibourg in 1616, was professor of poetry at Sora, and afterwards lecturer in theology at Ripen, in Jutland. Among his poems are: 1. “<q>De hommagio Frederici <sc>III</sc>. Daniae et Norw. Regis,</q>” Hafnioe, 1660, fol.; and 2. “<q>Threni Hyperborei</q>” on the death of Christian <sc>IV</sc>. All his pieces are inserted in the “<q date="1695">Delicioe quorundam Poetarum Danorum, Frederici Rostgaard,</q>” Leyden, <date event="work">1695</date>, 2 vols. 12mo. He died in February 1664, leaving a son, Severin Aagard, who wrote his life in the above collection.</p>
@@ -22,7 +24,8 @@
     </entry>
     <entry id="aarsens-francis" born="1572" died="1641">
         <title>
-            <csc>Aarsens</csc>, <csc>Francis</csc>
+            <csc>Aarsens</csc>
+            <csc>Francis</csc>
         </title>
         <body>
             <p>, lord of Someldyck and Spyck, one of the most celebrated negociators of the United Provinces, was the son of Cornelius Aarsens, (who was greffier, or secretary of state, from 1585 to 1623,) and was born at the Hague in 1572. His father put him under the care of Duplessis Mornay at the court of William I. prince of Orange. The celebrated John Barnevelt sent him afterwards as agent into France; and, after residing there some time, he was recognised as ambassador, the first whom the French Court had received in that capacity from the United States; and the king, Louis <sc>XIII</sc>. created him a knight and baron. After holding this office for fifteen years, he became obnoxious to the French Court, and was deputed to Venice, and to several German and Italian princes, on occasion of the troubles in Bohemia. But such was the dislike the French king now entertained against him, that he ordered his ambassadors in these courts not to receive his visits. One cause of this appears to have been a paper published by Aarsens in 1618, reflecting on the French king’s ministers. In 1620 he was sent as ambassador to England, and again in 1641: the object of this last embassy was to negociate a marriage between prince William, son to the prince of Orange, and a daughter of Charles I. Previous to this, however, we find him again In France, in 1624, as ambassador extraordinary, where it appears that he became intimate with and subservient to the cardinal Richelieu; who used to say that he never knew but three great politicians, Oxenstiern, chancellor of Sweden, Viscardi, chancellor of Montferrat, and Francis Aarsens. His character, however, has not escaped just censure, on account of the hand he had in the death of Barnevelt, and of some measures unfriendly to the liberties of his country. He died in 1641. The editors of the Diet. Historique attribute to him “<q date="1666">A Journey into Spain, historical and political,</q>” published by De Sercy at Paris, <date event="work">1666</date>, 4to, and often reprinted; but this was the work of a grandson, of both his names, who was drowned in his passage from England to Holland, 1659.</p>
@@ -30,7 +33,8 @@
     </entry>
     <entry birthplace="Riez" id="abeille-gaspar" born="1648" died="1718">
         <title>
-            <csc>Abeille</csc>, <csc>Gaspar</csc>
+            <csc>Abeille</csc>
+            <csc>Gaspar</csc>
         </title>
         <body>
             <p> was born at Riez in Provence, in
@@ -65,7 +69,8 @@
     </entry>
     <entry birthplace="Toulouse" id="abeille-louis-paul" born="1719" died="1807">
         <title>
-            <csc>Abeille</csc>, <csc>Louis</csc> 
+            <csc>Abeille</csc>
+            <csc>Louis</csc> 
             <csc>Paul</csc>
         </title>
         <body>
@@ -82,7 +87,8 @@
     </entry>
     <entry birthplace="Hindenburg" id="abel-gaspar" born="1676" died="1763">
         <title>
-            <csc>Abel</csc>, <csc>Gaspar</csc>
+            <csc>Abel</csc>
+            <csc>Gaspar</csc>
         </title>
         <body>
             <p>, a native of Halberstadt, and an eminent historian of the last century, born at Hindenburg in
@@ -94,7 +100,8 @@
     </entry>
     <entry id="abel-frederick-gottfried" born="1714" died="1794">
         <title>
-            <csc>Abel</csc>, <csc>Frederick</csc> 
+            <csc>Abel</csc>
+            <csc>Frederick</csc> 
             <csc>Gottfried</csc>
         </title>
         <body>
@@ -116,7 +123,8 @@
     </entry>
     <entry id="abelli-louis" born="1603" died="1691">
         <title>
-            <csc>Abelli</csc>, <csc>Louis</csc>
+            <csc>Abelli</csc>
+            <csc>Louis</csc>
         </title>
         <body>
             <p> was born in the Vexin Francois, in
@@ -141,7 +149,8 @@
     </entry>
     <entry birthplace="Toledo" id="aben-ezra" born="1099" died="1165">
         <title>
-            <csc>Aben</csc>-<csc>Ezra</csc>
+            <csc>Aben</csc>
+            <csc>Ezra</csc>
         </title>
         <body>
             <p>, <csc>Aven</csc>-<csc>Hezer</csc>, or <csc>Ben</csc>-<csc>Meir</csc>, (<csc>Abraham</csc>), a celebrated Rabbi, born at Toledo, in Spain, in
@@ -174,7 +183,8 @@
     </entry>
     <entry birthplace="Forfar" id="abercromby-patrick" born="1656" died="1716">
         <title>
-            <csc>Abercromby</csc>, <csc>Patrick</csc>
+            <csc>Abercromby</csc>
+            <csc>Patrick</csc>
         </title>
         <body>
             <p>, a physician and historian,
@@ -221,7 +231,8 @@
     </entry>
     <entry id="abraham-nicholas" born="1589" died="1655">
         <title>
-            <csc>Abraham</csc>, <csc>Nicholas</csc>
+            <csc>Abraham</csc>
+            <csc>Nicholas</csc>
         </title>
         <body>
             <p>, a learned Jesuit, was born in
@@ -251,9 +262,10 @@
                 becoming missionaries among heretics and idolaters.</p>
         </body>
     </entry>
-    <entry id="abu-nowas" born="762" died="810">
+    <entry id="abu-nowas" born="1762" died="1810">
         <title>
-            <csc>Abu</csc>-<csc>Nowas</csc>
+            <csc>Abu</csc>
+            <csc>Nowas</csc>
         </title>
         <body>
             <p>, or <csc>Abou</csc>-<csc>Navas</csc>, of the first class, was born in the city of Bassora, in the
@@ -268,7 +280,8 @@
     </entry>
     <entry birthplace="Florence" id="acciaioli-donato" born="1428" died="1478">
         <title>
-            <csc>Acciaioli</csc>, <csc>Donato</csc>
+            <csc>Acciaioli</csc>
+            <csc>Donato</csc>
         </title>
         <body>
             <p> was of an illustrious family,
@@ -316,7 +329,8 @@
     </entry>
     <entry birthplace="Florence" id="acciaioli-zanobio" born="1461" died="1519">
         <title>
-            <csc>Acciaioli</csc>, <csc>Zanobio</csc>
+            <csc>Acciaioli</csc>
+            <csc>Zanobio</csc>
         </title>
         <body>
             <p>, probably
@@ -364,7 +378,8 @@
     </entry>
     <entry birthplace="Arezzo" id="accolti-benedetto" born="1415" died="1466">
         <title>
-            <csc>Accolti</csc>, <csc>Benedetto</csc>
+            <csc>Accolti</csc>
+            <csc>Benedetto</csc>
         </title>
         <body>
             <p>, an eminent lawyer and historian of the fifteenth century, and the first of that ancient
@@ -411,7 +426,8 @@
     </entry>
     <entry id="accolti-francis" born="1418" died="1483">
         <title>
-            <csc>Accolti</csc>, <csc>Francis</csc>
+            <csc>Accolti</csc>
+            <csc>Francis</csc>
         </title>
         <body>
             <p>, the brother of Benedetto, and
@@ -458,7 +474,8 @@
     </entry>
     <entry birthplace="Florence" id="accolti-peter" born="1455" died="1532">
         <title>
-            <csc>Accolti</csc>, <csc>Peter</csc>
+            <csc>Accolti</csc>
+            <csc>Peter</csc>
         </title>
         <body>
             <p>, another of the sons of Benedetto
@@ -480,7 +497,8 @@
     </entry>
     <entry birthplace="Florence" id="accorso-francis" born="1151" died="1229">
         <title>
-            <csc>Accorso</csc>, <csc>Francis</csc>
+            <csc>Accorso</csc>
+            <csc>Francis</csc>
         </title>
         <body>
             <p>, an eminent
@@ -532,7 +550,8 @@
     </entry>
     <entry birthplace="Geneva" id="achard-anthony" born="1696" died="1772">
         <title>
-            <csc>Achard</csc>, <csc>Anthony</csc>
+            <csc>Achard</csc>
+            <csc>Anthony</csc>
         </title>
         <body>
             <p>, a learned Prussian divine, was
@@ -566,7 +585,9 @@
     </entry>
     <entry birthplace="Avignon" id="achards-eleazar-francis-de-la-baume-de" born="1679" died="1741">
         <title>
-            <csc>Achards</csc>, <csc>Eleazar</csc>-<csc>Francis</csc> 
+            <csc>Achards</csc>
+            <csc>Eleazar</csc>
+            <csc>Francis</csc> 
             <csc>De</csc> 
             <csc>La</csc> 
             <csc>Baume</csc> 
@@ -594,7 +615,8 @@
     </entry>
     <entry birthplace="Cologne" id="achen-john-van" born="1556" died="1621">
         <title>
-            <csc>Achen</csc>, <csc>John</csc> 
+            <csc>Achen</csc>
+            <csc>John</csc> 
             <csc>Van</csc>
         </title>
         <body>
@@ -628,7 +650,8 @@
     </entry>
     <entry id="achillini-alexander" born="1463" died="1512">
         <title>
-            <csc>Achillini</csc>, <csc>Alexander</csc>
+            <csc>Achillini</csc>
+            <csc>Alexander</csc>
         </title>
         <body>
             <p>, a native of Bologna, where
@@ -656,7 +679,8 @@
     </entry>
     <entry birthplace="Bologna" id="achillini-john-philotheus" born="1466" died="1558">
         <title>
-            <csc>Achillini</csc>, <csc>John</csc> 
+            <csc>Achillini</csc>
+            <csc>John</csc> 
             <csc>Philotheus</csc>
         </title>
         <body>
@@ -679,7 +703,8 @@
     </entry>
     <entry birthplace="Bologna" id="achillini-claude" born="1574" died="1640">
         <title>
-            <csc>Achillini</csc>, <csc>Claude</csc>
+            <csc>Achillini</csc>
+            <csc>Claude</csc>
         </title>
         <body>
             <p>, grandson of the preceding, and
@@ -711,7 +736,8 @@
     </entry>
     <entry id="ackermann-john-christian-gottlieb" born="1756" died="1801">
         <title>
-            <csc>Ackermann</csc>, <csc>John</csc> 
+            <csc>Ackermann</csc>
+            <csc>John</csc> 
             <csc>Christian</csc> 
             <csc>Gottlieb</csc>
         </title>
@@ -740,7 +766,8 @@
     </entry>
     <entry birthplace="Bernstadt" id="acoluthus-andrew" born="1654" died="1704">
         <title>
-            <csc>Acoluthus</csc>, <csc>Andrew</csc>
+            <csc>Acoluthus</csc>
+            <csc>Andrew</csc>
         </title>
         <body>
             <p>, a learned Orientalist, and
@@ -760,7 +787,8 @@
     </entry>
     <entry birthplace="Burgos" id="acuna-christopher" born="1597" died="1675">
         <title>
-            <csc>Acuna</csc>, <csc>Christopher</csc>
+            <csc>Acuna</csc>
+            <csc>Christopher</csc>
         </title>
         <body>
             <p>, a Spanish Jesuit and missionary, was born at Burgos, 1597. He w^s sent on a mission
@@ -785,7 +813,8 @@
     </entry>
     <entry birthplace="Vendome" id="adam-james" born="1663" died="1735">
         <title>
-            <csc>Adam</csc>, <csc>James</csc>
+            <csc>Adam</csc>
+            <csc>James</csc>
         </title>
         <body>
             <p>, a French translator of some note, was
@@ -801,7 +830,9 @@
     </entry>
     <entry birthplace="Nancy" id="adam-nicholas-sebastian" born="1705" died="1759">
         <title>
-            <csc>Adam</csc>, <csc>Nicholas</csc>-<csc>Sebastian</csc>
+            <csc>Adam</csc>
+            <csc>Nicholas</csc>
+            <csc>Sebastian</csc>
         </title>
         <body>
             <p>, brother of the preceding, and likewise an eminent artist, was born at Nancy,
@@ -836,7 +867,8 @@
     </entry>
     <entry birthplace="Paris" id="adam-nicolas" born="1716" died="1792">
         <title>
-            <csc>Adam</csc>, <csc>Nicolas</csc>
+            <csc>Adam</csc>
+            <csc>Nicolas</csc>
         </title>
         <body>
             <p>, a French grammarian, born at Paris,
@@ -857,7 +889,8 @@
     </entry>
     <entry id="adams-fitzherbert" born="1651" died="1719">
         <title>
-            <csc>Adams</csc>, <csc>Fitzherbert</csc>
+            <csc>Adams</csc>
+            <csc>Fitzherbert</csc>
         </title>
         <body>
             <p>, D. D. a man of learning, and
@@ -882,7 +915,8 @@
     </entry>
     <entry birthplace="London" id="adams-john" born="1678" died="1719">
         <title>
-            <csc>Adams</csc>, <csc>John</csc>
+            <csc>Adams</csc>
+            <csc>John</csc>
         </title>
         <body>
             <p>, D. D. Provost of King’s College, Cambridge, was born in London, and educated at Cambridge,
@@ -902,7 +936,8 @@
     </entry>
     <entry birthplace="Nuremberg" id="adelburner-michael" born="1702" died="1779">
         <title>
-            <csc>Adelburner</csc>, <csc>Michael</csc>
+            <csc>Adelburner</csc>
+            <csc>Michael</csc>
         </title>
         <body>
             <p>, a mathematician and physician, was born at Nuremberg, in 1702. He was at first
@@ -920,7 +955,8 @@
     </entry>
     <entry id="adimari-alexander" born="1579" died="1649">
         <title>
-            <csc>Adimari</csc>, <csc>Alexander</csc>
+            <csc>Adimari</csc>
+            <csc>Alexander</csc>
         </title>
         <body>
             <p>, an Italian poet, a descendant
@@ -941,7 +977,8 @@
     </entry>
     <entry birthplace="Naples" id="adimari-lewis" born="1644" died="1708">
         <title>
-            <csc>Adimari</csc>, <csc>Lewis</csc>
+            <csc>Adimari</csc>
+            <csc>Lewis</csc>
         </title>
         <body>
             <p>, a satirical poet of the same family
@@ -970,7 +1007,8 @@
     </entry>
     <entry birthplace="Rosenheim" id="adlzreiter-john" born="1596" died="1662">
         <title>
-            <csc>Adlzreiter</csc>, <csc>John</csc>
+            <csc>Adlzreiter</csc>
+            <csc>John</csc>
         </title>
         <body>
             <p>, of Tottenweiss, chancellor to
@@ -983,7 +1021,7 @@
                 1662.</p>
         </body>
     </entry>
-    <entry birthplace="Gastinois" id="ado" born="800" died="875">
+    <entry birthplace="Gastinois" id="ado" born="1800" died="1875">
         <title>
             <csc>Ado</csc>
         </title>
@@ -1014,7 +1052,8 @@
     </entry>
     <entry id="adriani-marcel-virgil" born="1464" died="1521">
         <title>
-            <csc>Adriani</csc>, <csc>Marcel</csc> 
+            <csc>Adriani</csc>
+            <csc>Marcel</csc> 
             <csc>Virgil</csc>
         </title>
         <body>
@@ -1035,7 +1074,8 @@
     </entry>
     <entry id="adriani-john-baptist" born="1513" died="1579">
         <title>
-            <csc>Adriani</csc>, <csc>John</csc> 
+            <csc>Adriani</csc>
+            <csc>John</csc> 
             <csc>Baptist</csc>
         </title>
         <body>
@@ -1069,7 +1109,8 @@
     </entry>
     <entry id="adriani-marcel" born="1533" died="1604">
         <title>
-            <csc>Adriani</csc>, <csc>Marcel</csc>
+            <csc>Adriani</csc>
+            <csc>Marcel</csc>
         </title>
         <body>
             <p>, sonof the preceding, born in 1533,
@@ -1092,7 +1133,8 @@
     </entry>
     <entry birthplace="Delft" id="adrichomius-christian" born="1533" died="1588">
         <title>
-            <csc>Adrichomius</csc>, <csc>Christian</csc>
+            <csc>Adrichomius</csc>
+            <csc>Christian</csc>
         </title>
         <body>
             <p>, a geographer of considerable note, was born at Delft in Holland, February 14,
@@ -1116,7 +1158,8 @@
     </entry>
     <entry birthplace="Antwerp" id="aegidius-peter" born="1486" died="1533">
         <title>
-            <csc>Ægidius</csc>, <csc>Peter</csc>
+            <csc>Ægidius</csc>
+            <csc>Peter</csc>
         </title>
         <body>
             <p>, a lawyer, was born at
@@ -1142,7 +1185,8 @@
     </entry>
     <entry birthplace="Delft" id="aelst-evert" born="1602" died="1658">
         <title>
-            <csc>Aelst</csc>, <csc>Evert</csc>
+            <csc>Aelst</csc>
+            <csc>Evert</csc>
         </title>
         <body>
             <p>, a Dutch painter,
@@ -1157,8 +1201,10 @@
     </entry>
     <entry birthplace="Delft" id="aelst-william-van-called-in-italy-gulielmo" born="1620" died="1679">
         <title>
-            <csc>Aelst</csc>, <csc>William</csc> 
-            <csc>Van</csc>, <csc>Called</csc> 
+            <csc>Aelst</csc>
+            <csc>William</csc> 
+            <csc>Van</csc>
+            <csc>Called</csc> 
             <csc>In</csc> 
             <csc>Italy</csc> 
             <csc>Gulielmo</csc>
@@ -1188,7 +1234,9 @@
     </entry>
     <entry birthplace="Venice" id="aemiliani-st-jerome" born="1481" died="1537">
         <title>
-            <csc>Æmiliani</csc>, <csc>St</csc>. <csc>Jerome</csc>
+            <csc>Æmiliani</csc>
+            <csc>St</csc>
+            <csc>Jerome</csc>
         </title>
         <body>
             <p>, a nobleman, born at Venice
@@ -1209,7 +1257,8 @@
     </entry>
     <entry id="aemilius-anthony" born="1589" died="1660">
         <title>
-            <csc>Æmilius</csc>, <csc>Anthony</csc>
+            <csc>Æmilius</csc>
+            <csc>Anthony</csc>
         </title>
         <body>
             <p>, professor of history in the university of Utrecht, was born Dec. 20, 1589, at Aix-laChapelle, whither his father John Meles (Latinized by his son into Æmilius) had fled on account of his attachment to
@@ -1229,7 +1278,11 @@
     </entry>
     <entry birthplace="Rostock" id="aepinus-francis-marie-ulrick-theodore" born="1724" died="1802">
         <title>
-            <csc>Æpinus</csc>, <csc>Francis</csc>-<csc>Marie</csc>-<csc>Ulrick</csc>-<csc>Theodore</csc>
+            <csc>Æpinus</csc>
+            <csc>Francis</csc>
+            <csc>Marie</csc>
+            <csc>Ulrick</csc>
+            <csc>Theodore</csc>
         </title>
         <body>
             <p>, a German physician of considerable eminence, was born at Rostock, Dec. 13, 1724, and died at Dorpt, in Livonia, Aug.
@@ -1255,7 +1308,8 @@
     </entry>
     <entry id="aepinus-john" born="1499" died="1553">
         <title>
-            <csc>Æpinus</csc>, <csc>John</csc>
+            <csc>Æpinus</csc>
+            <csc>John</csc>
         </title>
         <body>
             <p>, a fellow-labourer with Luther in promoting the Reformation, was born 1499, in the Marche of
@@ -1279,7 +1333,8 @@
     </entry>
     <entry birthplace="Amsterdam" id="aersens-peter" born="1519" died="1585">
         <title>
-            <csc>Aersens</csc>, <csc>Peter</csc>
+            <csc>Aersens</csc>
+            <csc>Peter</csc>
         </title>
         <body>
             <p>, called by the Italians PietroLongo,
@@ -1312,7 +1367,8 @@
     </entry>
     <entry birthplace="Naples" id="afflitto-matthew" born="1430" died="1510">
         <title>
-            <csc>Afflitto</csc>, <csc>Matthew</csc>
+            <csc>Afflitto</csc>
+            <csc>Matthew</csc>
         </title>
         <body>
             <p>,
@@ -1364,7 +1420,8 @@
     </entry>
     <entry birthplace="Naples" id="agnelli-joseph" born="1621" died="1706">
         <title>
-            <csc>Agnelli</csc>, <csc>Joseph</csc>
+            <csc>Agnelli</csc>
+            <csc>Joseph</csc>
         </title>
         <body>
             <p>, a learned Jesuit, born at Naples
@@ -1380,7 +1437,8 @@
     </entry>
     <entry birthplace="Milan" id="agnesi-maria-cajetana" born="1718" died="1799">
         <title>
-            <csc>Agnesi</csc>, <csc>Maria</csc> 
+            <csc>Agnesi</csc>
+            <csc>Maria</csc> 
             <csc>Cajetana</csc>
         </title>
         <body>
@@ -1421,7 +1479,9 @@
     </entry>
     <entry id="agnolo-baccio-d" born="1460" died="1543">
         <title>
-            <csc>Agnolo</csc>, <csc>Baccio</csc> D'</title>
+            <csc>Agnolo</csc>
+            <csc>Baccio</csc>
+        </title>
         <body>
             <p>, a sculptor and architect of Florence, was born in 1460, and was first distinguished for
                 the beauty of his inlaid work, which he applied to articles
@@ -1448,7 +1508,8 @@
     </entry>
     <entry id="agostino-paul" born="1593" died="1629">
         <title>
-            <csc>Agostino</csc>, <csc>Paul</csc>
+            <csc>Agostino</csc>
+            <csc>Paul</csc>
         </title>
         <body>
             <p>, of Valerano, an eminent musician,
@@ -1473,7 +1534,9 @@
     </entry>
     <entry birthplace="Agreda" id="agreda-maria-d" born="1602" died="1665">
         <title>
-            <csc>Agreda</csc>, <csc>Maria</csc> D'</title>
+            <csc>Agreda</csc>
+            <csc>Maria</csc>
+        </title>
         <body>
             <p>, a singular impostor and enthusiast, the daughter of Francis Coronel, was born at Agreda
                 in 1602. Her father made his house a convent of female
@@ -1491,7 +1554,8 @@
     </entry>
     <entry birthplace="Glaucha" id="agricola-george" born="1494" died="1555">
         <title>
-            <csc>Agricola</csc>, <csc>George</csc>
+            <csc>Agricola</csc>
+            <csc>George</csc>
         </title>
         <body>
             <p>, a German physician, eminent
@@ -1533,7 +1597,8 @@
     </entry>
     <entry id="aguado-francis" born="1566" died="1654">
         <title>
-            <csc>Aguado</csc>, <csc>Francis</csc>
+            <csc>Aguado</csc>
+            <csc>Francis</csc>
         </title>
         <body>
             <p>, a Spanish Jesuit, and voluminous
@@ -1553,7 +1618,8 @@
     </entry>
     <entry birthplace="Bologna" id="agucchio-john-baptista" born="1570" died="1632">
         <title>
-            <csc>Agucchio</csc>, <csc>John</csc> 
+            <csc>Agucchio</csc>
+            <csc>John</csc> 
             <csc>Baptista</csc>
         </title>
         <body>
@@ -1593,7 +1659,8 @@
     </entry>
     <entry birthplace="Logrogno" id="aguirre-joseph-saenz-de" born="1630" died="1699">
         <title>
-            <csc>Aguirre</csc>, <csc>Joseph</csc> 
+            <csc>Aguirre</csc>
+            <csc>Joseph</csc> 
             <csc>Saenz</csc> 
             <csc>De</csc>
         </title>
@@ -1634,7 +1701,8 @@
     </entry>
     <entry birthplace="Bois" id="agylaeus-henry" born="1533" died="1595">
         <title>
-            <csc>Agylæus</csc>, <csc>Henry</csc>
+            <csc>Agylæus</csc>
+            <csc>Henry</csc>
         </title>
         <body>
             <p>, an eminent lawyer and law
@@ -1659,7 +1727,8 @@
     </entry>
     <entry id="ahlwardt-peter" born="1710" died="1791">
         <title>
-            <csc>Ahlwardt</csc>, <csc>Peter</csc>
+            <csc>Ahlwardt</csc>
+            <csc>Peter</csc>
         </title>
         <body>
             <p>, professor of logic and metaphysics at GreifewaJd, was born in that town, Feb. 19, 1710,
@@ -1738,7 +1807,8 @@
     </entry>
     <entry birthplace="Westmoreland" id="airay-henry" born="1559" died="1616">
         <title>
-            <csc>Airay</csc>, <csc>Henry</csc>
+            <csc>Airay</csc>
+            <csc>Henry</csc>
         </title>
         <body>
             <p>, provost of Queen’s college, Oxford,
@@ -1786,7 +1856,9 @@
     </entry>
     <entry birthplace="Doccum" id="aitzema-leo-d" born="1600" died="1669">
         <title>
-            <csc>Aitzema</csc>, <csc>Leo</csc> D'</title>
+            <csc>Aitzema</csc>
+            <csc>Leo</csc>
+        </title>
         <body>
             <p>, a gentleman of Frizeland, was
                 born at Doccum in 1600, of a considerable family. His
@@ -1825,7 +1897,8 @@
     </entry>
     <entry id="alard-william" born="1572" died="1644">
         <title>
-            <csc>Alard</csc>, <csc>William</csc>
+            <csc>Alard</csc>
+            <csc>William</csc>
         </title>
         <body>
             <p>, son of the preceding, was born
@@ -1843,7 +1916,8 @@
     </entry>
     <entry birthplace="Krempen" id="alard-lambert" born="1600" died="1672">
         <title>
-            <csc>Alard</csc>, <csc>Lambert</csc>
+            <csc>Alard</csc>
+            <csc>Lambert</csc>
         </title>
         <body>
             <p>, son of the preceding, was born at
@@ -1868,7 +1942,8 @@
     </entry>
     <entry id="alaymo-mark-anthony" born="1590" died="1662">
         <title>
-            <csc>Alaymo</csc>, <csc>Mark</csc> 
+            <csc>Alaymo</csc>
+            <csc>Mark</csc> 
             <csc>Anthony</csc>
         </title>
         <body>
@@ -1900,7 +1975,8 @@
     </entry>
     <entry birthplace="Urbino" id="albani-alexander" born="1692" died="1779">
         <title>
-            <csc>Albani</csc>, <csc>Alexander</csc>
+            <csc>Albani</csc>
+            <csc>Alexander</csc>
         </title>
         <body>
             <p>, an eminent virtuoso, was born
@@ -1921,7 +1997,8 @@
     </entry>
     <entry id="albani-john-jerome" born="1504" died="1591">
         <title>
-            <csc>Albani</csc>, <csc>John</csc> 
+            <csc>Albani</csc>
+            <csc>John</csc> 
             <csc>Jerome</csc>
         </title>
         <body>
@@ -1946,8 +2023,10 @@
     </entry>
     <entry id="albert-louis-joseph-d" born="1672" died="1758">
         <title>
-            <csc>Albert</csc>, <csc>Louis</csc> 
-            <csc>Joseph</csc> D'</title>
+            <csc>Albert</csc>
+            <csc>Louis</csc> 
+            <csc>Joseph</csc>
+        </title>
         <body>
             <p>, grandson of the constable
                 de Luynes, was the ninth child of Louis-Charles, duke de
@@ -1977,7 +2056,9 @@
     </entry>
     <entry id="alberti-cherubino-borghegiano" born="1552" died="1615">
         <title>
-            <csc>Alberti</csc>, <csc>Cherubino</csc>, <csc>Borghegiano</csc>
+            <csc>Alberti</csc>
+            <csc>Cherubino</csc>
+            <csc>Borghegiano</csc>
         </title>
         <body>
             <p>, a painter of
@@ -2008,7 +2089,8 @@
     </entry>
     <entry birthplace="Widmanstadt" id="alberti-john" born="1543" died="1559">
         <title>
-            <csc>Alberti</csc>, <csc>John</csc>
+            <csc>Alberti</csc>
+            <csc>John</csc>
         </title>
         <body>
             <p>, a German lawyer of the 16th century, born at Widmanstadt, deeply learned in the Oriental
@@ -2030,7 +2112,8 @@
     </entry>
     <entry birthplace="Bologna" id="alberti-leander" born="1479" died="1552">
         <title>
-            <csc>Alberti</csc>, <csc>Leander</csc>
+            <csc>Alberti</csc>
+            <csc>Leander</csc>
         </title>
         <body>
             <p>, a dominican and provincial of his
@@ -2053,7 +2136,8 @@
     </entry>
     <entry birthplace="Nuremberg" id="alberti-michael" born="1682" died="1757">
         <title>
-            <csc>Alberti</csc>, <csc>Michael</csc>
+            <csc>Alberti</csc>
+            <csc>Michael</csc>
         </title>
         <body>
             <p>, avery eminent German physician,
@@ -2079,7 +2163,8 @@
     </entry>
     <entry birthplace="Nuremberg" id="alberti-solomon" born="1540" died="1600">
         <title>
-            <csc>Alberti</csc>, <csc>Solomon</csc>
+            <csc>Alberti</csc>
+            <csc>Solomon</csc>
         </title>
         <body>
             <p>, the pupil of Jerome Fabricius at
@@ -2094,7 +2179,8 @@
     </entry>
     <entry id="alberti-valentine" born="1635" died="1697">
         <title>
-            <csc>Alberti</csc>, <csc>Valentine</csc>
+            <csc>Alberti</csc>
+            <csc>Valentine</csc>
         </title>
         <body>
             <p>, professor of divinity at Leipsic, was born in 1635, at Lehna in Silesia, and died at
@@ -2117,7 +2203,9 @@
         <title>
             <csc>Alberti</csc> 
             <csc>Di</csc> 
-            <csc>Villanova</csc>, <csc>Francis</csc> D'</title>
+            <csc>Villanova</csc>
+            <csc>Francis</csc>
+            </title>
         <body>
             <p>, author of
                 the best French and Italian, and Italian and French Dictionary we have, was born at Nice, 1737. The success of
@@ -2133,7 +2221,8 @@
     </entry>
     <entry id="albertini-paul" born="1430" died="1475">
         <title>
-            <csc>Albertini</csc>, <csc>Paul</csc>
+            <csc>Albertini</csc>
+            <csc>Paul</csc>
         </title>
         <body>
             <p>, a celebrated divine and politician of Venice, was born there in 1430, and at the age of
@@ -2153,7 +2242,8 @@
     </entry>
     <entry id="albi-henry" born="1590" died="1659">
         <title>
-            <csc>Albi</csc>, <csc>Henry</csc>
+            <csc>Albi</csc>
+            <csc>Henry</csc>
         </title>
         <body>
             <p>, a native of Bolene in the comtat Venaissin, was born in 1590, and entered the order of the
@@ -2183,7 +2273,8 @@
     </entry>
     <entry birthplace="Dessau" id="albinus-bernard" born="1653" died="1721">
         <title>
-            <csc>Albinus</csc>, <csc>Bernard</csc>
+            <csc>Albinus</csc>
+            <csc>Bernard</csc>
         </title>
         <body>
             <p>, an eminent physician, whose
